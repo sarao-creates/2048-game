@@ -1,0 +1,35 @@
+.main {
+    text-align: center;
+    height: 100vh;
+}
+
+.gameTable {
+    margin-top: 100px;
+}
+
+.instructions {
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+.tile {
+    height: 150px;
+    width: 150px;
+    background-color: darkblue;
+    display: inline-block;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+
+
+.tile-value {
+    color: white;
+    padding-top: 37px;
+    font-size: 50px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+}
